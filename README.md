@@ -7,7 +7,9 @@
     <h1 align="left">
       <font align="left" size="6" color="#006937"> BoostUpStudy🔥🔥🔥</font>
     </h1>
-    부스트캠프가 끝난 다음에도 조금씩 지식을 쌓아가며 한 걸음씩 전진하기 위해 시작하게 된 스터디입니다! <br>
+    <p align="left">
+      부스트캠프가 끝난 다음에도 멈추지 않고 한 걸음씩 전진하기 위해 시작하게 된 스터디입니다!
+    </p>
   </div>
 </div>
 
