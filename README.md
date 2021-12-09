@@ -33,12 +33,12 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/yeon52">
+        <a href="https://github.com/Najeong-Kim">
           김나정
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/yeon52">
+        <a href="https://github.com/alittlekitten">
           오석호
         </a>
       </td>
