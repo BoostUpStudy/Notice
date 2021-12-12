@@ -15,47 +15,6 @@
 
 <br>
 
-## 프로젝트 멤버
-
-<div>
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/Najeong-Kim">
-          <img src="https://avatars.githubusercontent.com/Najeong-Kim" width="100"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/shinhyogeun">
-          <img src="https://avatars.githubusercontent.com/shinhyogeun" width="100"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/alittlekitten">
-          <img src="https://avatars.githubusercontent.com/alittlekitten" width="100"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Najeong-Kim">
-          김나정
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/shinhyogeun">
-          신효근
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/alittlekitten">
-          오석호
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 규칙
 - 프로젝트 멤버는 `부스트캠프 웹모바일 6기 수료생`으로 구성됩니다!
 
